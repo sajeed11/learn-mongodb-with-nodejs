@@ -59,7 +59,7 @@
       display: block;
       margin: 40px 0;
       padding-left: 30px;
-      border-left: 6px solid crimson;
+      border-left: 6px solid #40A2E3;
     }
     .blogs a:hover h3{
       color: #40A2E3;
